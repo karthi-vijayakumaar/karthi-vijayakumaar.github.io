@@ -1,0 +1,17 @@
+---
+title: "About"
+about: 
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/AI_Swordsman
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com/karthi-vijayakumaar
+
+---
+Hi I am Karthi. Welcome to my blog. I am interested in a lot of things, but the main topics I will mostly write about is my ML learnings. I am currently working as a software engineer in a Big Tech company. If you would like to connect with me, you can find me on the below platforms.
